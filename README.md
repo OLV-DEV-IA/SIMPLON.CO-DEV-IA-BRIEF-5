@@ -101,5 +101,4 @@ Note: Adjust the API URL and payload accordingly.
     matplotlib
     numpy
 
-# Author
-Olivier LAVAUD
+
